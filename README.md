@@ -1,3 +1,5 @@
+# AUTOR ORIGINAL https://github.com/JhonControl
+
 # ESP8266 Actualizacion Update ESP8266 Slave Modbus TCP 
 
 They have been conducted new tests with better results with ModbusTCPSlave library, solving problems as momentary disconnection of ESP8266 for updating the data.
